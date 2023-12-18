@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890115639305",
+    "project_id": "telegram-database-icts",
+    "storage_bucket": "telegram-database-icts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890115639305:android:f9d4079eaebe33fe1450d8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrw88DdtetApB7EkF1FLo6oJe6JoI9YsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
